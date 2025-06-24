@@ -146,7 +146,7 @@ Integration potential with:
 - Network operations only when absolutely necessary
 
 ### OUTPUT  
-
+![Image](https://github.com/user-attachments/assets/9074b33f-1c2d-43f2-a4ce-73f915ac971e)
 
 ### CONCLUSION  
 This data loading script represents a production-ready solution for ingesting text message data for spam detection systems. Its multi-layered approach to data sourcing, comprehensive error handling, and consistent output structure make it an excellent foundation for building robust NLP applications.

@@ -51,18 +51,18 @@ Used for filesystem operations:
 ### EDITOR AND PLATFORM COMPATIBILITY  
 This script is designed to work across multiple development environments:
 
-**Development Environments**  
+#### Development Environments  
 - Jupyter Notebook/JupyterLab: Ideal for interactive data exploration
 - VS Code: Excellent for debugging with Python extensions
 - PyCharm: Provides advanced data science tools
 - Google Colab: Cloud-based execution without local setup
 
-**Execution Methods**  
+#### Execution Methods  
 - Can be run directly as a Python script
 - Integrates well in larger machine learning pipelines
 - Works in both Windows and Unix-based systems
 
-**Cloud Deployment**  
+#### Cloud Deployment  
 - Ready for deployment in AWS Lambda or Google Cloud Functions
 - Compatible with containerized environments (Docker)
 
